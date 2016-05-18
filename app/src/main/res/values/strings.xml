@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name" >IPL </string>
+    <string name="RCB" >RCB</string>
+    <string name="MI" >MI g </string>
+    <string name="GL">GL</string>
+    <string name="KKR">KKR</string>
+    <string name="SRH">SRH</string>
+    <string name="OK">OK</string>
+</resources>
